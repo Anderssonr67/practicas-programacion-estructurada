@@ -20,9 +20,3 @@ console.log(palabraNueva);
 // Ejercicio de tarea
 // Contar los caracteres de una cadena ("Su nombre")
 // sin contar los espacios (usar .trim() y .replace())
-console.log("\n\n:: Ejercicio de tarea ::");
-let cadena = "Su nombre";
-cadena = cadena.trim();
-let cadenaSinEspacios = cadena.replace(/ /g, "");
-let cantidad = cadenaSinEspacios.length;
-console.log("Cantidad de caracteres:", cantidad);
