@@ -18,5 +18,5 @@ const palabraNueva = palabra.substring(3, 9);
 console.log(palabraNueva);
 
 // Ejercicio de tarea
-// Contar los caracteres de una cadena ("Su nombre")
-// sin contar los espacios (usar .trim() y .replace())
+// Contar los caracteres de una cadena ("Su nombre") sin contar los espacios (usar .trim() y .replace())
+
