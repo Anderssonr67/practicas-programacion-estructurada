@@ -6,6 +6,7 @@
   "scripts": {
     "start": "node PracticaCinco.js"
   },
-  "author": "Daniel",
+  "author": "Ander",
   "license": "ISC"
 }
+
