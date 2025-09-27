@@ -15,7 +15,7 @@ persona.saludar();
 const universidad = {
     nombre: "UNIVO",
     ubicacion: {
-        ciudad: "San Miguel",
+        ciudad: "La Union",
         pais: "El Salvador"
     },
     facultades: {
@@ -63,4 +63,5 @@ const tienda = {
 console.log("\n\n\nNombre del producto: ", tienda.productos.celulares.nombre)
 console.log("Precio del producto: $", tienda.productos.celulares.precio)
 console.log("cantidad de stock restante: ", tienda.productos.celulares.stock - 1)
+
 
