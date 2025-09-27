@@ -1,8 +1,8 @@
 /*
  // Objetos
 const persona = {
-    nombre: "Daniel",
-    edad: 22,
+    nombre: "Ander",
+    edad: 18,
     profesion: "Instructor",
     saludar: function(){
         console.log("Hola, soy " + this.nombre)
@@ -63,3 +63,4 @@ const tienda = {
 console.log("\n\n\nNombre del producto: ", tienda.productos.celulares.nombre)
 console.log("Precio del producto: $", tienda.productos.celulares.precio)
 console.log("cantidad de stock restante: ", tienda.productos.celulares.stock - 1)
+
